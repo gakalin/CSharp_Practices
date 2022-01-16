@@ -1,0 +1,7 @@
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\plinq_merge_options\plinq_merge_options\bin\Debug\plinq_merge_options.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\plinq_merge_options\plinq_merge_options\bin\Debug\plinq_merge_options.pdb
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\plinq_merge_options\plinq_merge_options\obj\Debug\plinq_merge_options.csproj.AssemblyReference.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\plinq_merge_options\plinq_merge_options\obj\Debug\plinq_merge_options.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\plinq_merge_options\plinq_merge_options\obj\Debug\plinq_merge_options.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\plinq_merge_options\plinq_merge_options\obj\Debug\plinq_merge_options.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\plinq_merge_options\plinq_merge_options\obj\Debug\plinq_merge_options.pdb
