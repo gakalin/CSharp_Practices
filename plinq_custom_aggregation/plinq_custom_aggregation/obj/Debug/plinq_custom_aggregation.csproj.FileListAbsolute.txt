@@ -1,0 +1,7 @@
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\plinq_custom_aggregation\plinq_custom_aggregation\bin\Debug\plinq_custom_aggregation.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\plinq_custom_aggregation\plinq_custom_aggregation\bin\Debug\plinq_custom_aggregation.pdb
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\plinq_custom_aggregation\plinq_custom_aggregation\obj\Debug\plinq_custom_aggregation.csproj.AssemblyReference.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\plinq_custom_aggregation\plinq_custom_aggregation\obj\Debug\plinq_custom_aggregation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\plinq_custom_aggregation\plinq_custom_aggregation\obj\Debug\plinq_custom_aggregation.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\plinq_custom_aggregation\plinq_custom_aggregation\obj\Debug\plinq_custom_aggregation.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\plinq_custom_aggregation\plinq_custom_aggregation\obj\Debug\plinq_custom_aggregation.pdb
