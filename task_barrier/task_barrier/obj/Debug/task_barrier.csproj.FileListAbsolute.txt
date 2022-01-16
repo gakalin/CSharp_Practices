@@ -1,0 +1,7 @@
+C:\Users\Gokberk\RiderProjects\task_barrier\task_barrier\bin\Debug\task_barrier.exe
+C:\Users\Gokberk\RiderProjects\task_barrier\task_barrier\bin\Debug\task_barrier.pdb
+C:\Users\Gokberk\RiderProjects\task_barrier\task_barrier\obj\Debug\task_barrier.csproj.AssemblyReference.cache
+C:\Users\Gokberk\RiderProjects\task_barrier\task_barrier\obj\Debug\task_barrier.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gokberk\RiderProjects\task_barrier\task_barrier\obj\Debug\task_barrier.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\RiderProjects\task_barrier\task_barrier\obj\Debug\task_barrier.exe
+C:\Users\Gokberk\RiderProjects\task_barrier\task_barrier\obj\Debug\task_barrier.pdb

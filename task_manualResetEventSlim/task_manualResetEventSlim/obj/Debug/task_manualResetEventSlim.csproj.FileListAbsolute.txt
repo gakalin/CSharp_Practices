@@ -1,0 +1,7 @@
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\task_manualResetEventSlim\task_manualResetEventSlim\bin\Debug\task_manualResetEventSlim.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\task_manualResetEventSlim\task_manualResetEventSlim\bin\Debug\task_manualResetEventSlim.pdb
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\task_manualResetEventSlim\task_manualResetEventSlim\obj\Debug\task_manualResetEventSlim.csproj.AssemblyReference.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\task_manualResetEventSlim\task_manualResetEventSlim\obj\Debug\task_manualResetEventSlim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\task_manualResetEventSlim\task_manualResetEventSlim\obj\Debug\task_manualResetEventSlim.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\task_manualResetEventSlim\task_manualResetEventSlim\obj\Debug\task_manualResetEventSlim.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\task_manualResetEventSlim\task_manualResetEventSlim\obj\Debug\task_manualResetEventSlim.pdb

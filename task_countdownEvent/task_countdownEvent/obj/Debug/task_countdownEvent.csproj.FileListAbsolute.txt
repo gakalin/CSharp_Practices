@@ -1,0 +1,7 @@
+C:\Users\Gokberk\RiderProjects\task_countdownEvent\task_countdownEvent\bin\Debug\task_countdownEvent.exe
+C:\Users\Gokberk\RiderProjects\task_countdownEvent\task_countdownEvent\bin\Debug\task_countdownEvent.pdb
+C:\Users\Gokberk\RiderProjects\task_countdownEvent\task_countdownEvent\obj\Debug\task_countdownEvent.csproj.AssemblyReference.cache
+C:\Users\Gokberk\RiderProjects\task_countdownEvent\task_countdownEvent\obj\Debug\task_countdownEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gokberk\RiderProjects\task_countdownEvent\task_countdownEvent\obj\Debug\task_countdownEvent.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\RiderProjects\task_countdownEvent\task_countdownEvent\obj\Debug\task_countdownEvent.exe
+C:\Users\Gokberk\RiderProjects\task_countdownEvent\task_countdownEvent\obj\Debug\task_countdownEvent.pdb
