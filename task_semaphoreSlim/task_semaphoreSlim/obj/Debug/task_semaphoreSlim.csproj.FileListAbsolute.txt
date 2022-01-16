@@ -1,0 +1,7 @@
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\task_semaphoreSlim\task_semaphoreSlim\bin\Debug\task_semaphoreSlim.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\task_semaphoreSlim\task_semaphoreSlim\bin\Debug\task_semaphoreSlim.pdb
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\task_semaphoreSlim\task_semaphoreSlim\obj\Debug\task_semaphoreSlim.csproj.AssemblyReference.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\task_semaphoreSlim\task_semaphoreSlim\obj\Debug\task_semaphoreSlim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\task_semaphoreSlim\task_semaphoreSlim\obj\Debug\task_semaphoreSlim.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\task_semaphoreSlim\task_semaphoreSlim\obj\Debug\task_semaphoreSlim.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\task_semaphoreSlim\task_semaphoreSlim\obj\Debug\task_semaphoreSlim.pdb
