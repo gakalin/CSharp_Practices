@@ -1,0 +1,7 @@
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_threadLocalStorage\parallel_threadLocalStorage\bin\Debug\parallel_threadLocalStorage.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_threadLocalStorage\parallel_threadLocalStorage\bin\Debug\parallel_threadLocalStorage.pdb
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_threadLocalStorage\parallel_threadLocalStorage\obj\Debug\parallel_threadLocalStorage.csproj.AssemblyReference.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_threadLocalStorage\parallel_threadLocalStorage\obj\Debug\parallel_threadLocalStorage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_threadLocalStorage\parallel_threadLocalStorage\obj\Debug\parallel_threadLocalStorage.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_threadLocalStorage\parallel_threadLocalStorage\obj\Debug\parallel_threadLocalStorage.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_threadLocalStorage\parallel_threadLocalStorage\obj\Debug\parallel_threadLocalStorage.pdb
