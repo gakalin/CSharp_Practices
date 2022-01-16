@@ -1,0 +1,7 @@
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_loops\parallel_loops\bin\Debug\parallel_loops.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_loops\parallel_loops\bin\Debug\parallel_loops.pdb
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_loops\parallel_loops\obj\Debug\parallel_loops.csproj.AssemblyReference.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_loops\parallel_loops\obj\Debug\parallel_loops.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_loops\parallel_loops\obj\Debug\parallel_loops.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_loops\parallel_loops\obj\Debug\parallel_loops.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_loops\parallel_loops\obj\Debug\parallel_loops.pdb
