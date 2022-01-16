@@ -1,0 +1,11 @@
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_async_await\bin\Debug\parallel_async_await.exe.config
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_async_await\bin\Debug\parallel_async_await.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_async_await\bin\Debug\parallel_async_await.pdb
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_async_await\obj\Debug\parallel_async_await.csproj.AssemblyReference.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_async_await\obj\Debug\parallel_async_await.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_async_await\obj\Debug\parallel_async_await.Form1.resources
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_async_await\obj\Debug\parallel_async_await.Properties.Resources.resources
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_async_await\obj\Debug\parallel_async_await.csproj.GenerateResource.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_async_await\obj\Debug\parallel_async_await.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_async_await\obj\Debug\parallel_async_await.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\parallel_async_await\obj\Debug\parallel_async_await.pdb
