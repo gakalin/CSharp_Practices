@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef9e3a3f-b08f-4e44-9a68-84922c8e473d": {
+      "ProjectGuid": "ef9e3a3f-b08f-4e44-9a68-84922c8e473d",
+      "DisplayName": "parallel_async_await",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
