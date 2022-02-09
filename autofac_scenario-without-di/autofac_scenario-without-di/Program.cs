@@ -1,4 +1,5 @@
 ﻿using System;
+using Autofac;
 
 namespace autofac_scenario_without_di
 {
@@ -54,9 +55,14 @@ namespace autofac_scenario_without_di
   {
     public static void Main(string[] args)
     {
-      var log = new ConsoleLog();
-      var engine = new Engine(log);
-      var car = new Car(engine, log);
+
+      var builder = new ContainerBuilder();
+      builder.RegisterType<ConsoleLog>().As<ILog>().AsSelf();
+      builder.RegisterType<Engine>();
+      builder.RegisterType<Car>();
+
+      IContainer container = builder.Build();
+      var car = container.Resolve<Car>();
       car.Go();
     }
   }
