@@ -52,6 +52,11 @@ namespace autofac_scenario_without_di
     private Engine engine;
     private ILog log;
 
+    public Car(Engine engine)
+    {
+      this.engine = engine;
+      this.log = new EmailLog();
+    }
     public Car(Engine engine, ILog log)
     {
       this.engine = engine;
@@ -71,12 +76,10 @@ namespace autofac_scenario_without_di
     {
 
       var builder = new ContainerBuilder();
-      builder.RegisterType<EmailLog>()
-        .As<ILog>()
-        .As<IConsole>();
       builder.RegisterType<ConsoleLog>().As<ILog>().PreserveExistingDefaults();
       builder.RegisterType<Engine>();
-      builder.RegisterType<Car>();
+      builder.RegisterType<Car>()
+        .UsingConstructor(typeof(Engine));
 
       IContainer container = builder.Build();
       var car = container.Resolve<Car>();
