@@ -8,11 +8,25 @@ namespace autofac_scenario_without_di
     void Write(string message);
   }
 
-  public class ConsoleLog : ILog
+  public interface IConsole
+  {
+    
+  }
+
+  public class ConsoleLog : ILog, IConsole
   {
     public void Write(string message)
     {
       Console.WriteLine(message);
+    }
+  }
+
+  public class EmailLog : ILog
+  {
+    const string adminEmail = "admin@foo.com";
+    public void Write(string message)
+    {
+      Console.WriteLine($"Email sent to {adminEmail} : {message}");
     }
   }
 
@@ -57,7 +71,10 @@ namespace autofac_scenario_without_di
     {
 
       var builder = new ContainerBuilder();
-      builder.RegisterType<ConsoleLog>().As<ILog>().AsSelf();
+      builder.RegisterType<EmailLog>()
+        .As<ILog>()
+        .As<IConsole>();
+      builder.RegisterType<ConsoleLog>().As<ILog>().PreserveExistingDefaults();
       builder.RegisterType<Engine>();
       builder.RegisterType<Car>();
 
