@@ -1,0 +1,7 @@
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\autofac_scenario-without-di\autofac_scenario-without-di\bin\Debug\autofac_scenario_without_di.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\autofac_scenario-without-di\autofac_scenario-without-di\bin\Debug\autofac_scenario_without_di.pdb
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\autofac_scenario-without-di\autofac_scenario-without-di\obj\Debug\autofac_scenario-without-di.csproj.AssemblyReference.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\autofac_scenario-without-di\autofac_scenario-without-di\obj\Debug\autofac_scenario-without-di.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\autofac_scenario-without-di\autofac_scenario-without-di\obj\Debug\autofac_scenario-without-di.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\autofac_scenario-without-di\autofac_scenario-without-di\obj\Debug\autofac_scenario_without_di.exe
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\autofac_scenario-without-di\autofac_scenario-without-di\obj\Debug\autofac_scenario_without_di.pdb
