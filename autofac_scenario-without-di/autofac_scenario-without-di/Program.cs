@@ -76,7 +76,11 @@ namespace autofac_scenario_without_di
     {
 
       var builder = new ContainerBuilder();
-      builder.RegisterType<ConsoleLog>().As<ILog>().PreserveExistingDefaults();
+      //builder.RegisterType<ConsoleLog>().As<ILog>().PreserveExistingDefaults();
+
+      var log = new ConsoleLog();
+      builder.RegisterInstance(log).As<ILog>();
+      
       builder.RegisterType<Engine>();
       builder.RegisterType<Car>()
         .UsingConstructor(typeof(Engine));
