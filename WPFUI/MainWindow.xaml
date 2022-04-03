@@ -1,0 +1,26 @@
+﻿<Window x:Class="WPFUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFUI"
+        mc:Ignorable="d" FontSize="20"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="First Name:" Margin="5" />
+                <TextBox x:Name="firstName" MinWidth="100" Margin="5" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Last Name:" Margin="5" />
+                <TextBox x:Name="lastName" MinWidth="100" Margin="5" />
+            </StackPanel>
+            <Button x:Name="createEmployeeIdButton" Content="Generate Employee ID" Margin="5" Padding="10" Click="createEmployeeIdButton_Click" />
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Employee ID:" Margin="5" />
+                <TextBlock x:Name="employeeId" Margin="5" />
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

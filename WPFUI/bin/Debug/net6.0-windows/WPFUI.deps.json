@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WPFUI/1.0.0": {
+        "dependencies": {
+          "DRYDemoLibrary": "1.0.0"
+        },
+        "runtime": {
+          "WPFUI.dll": {}
+        }
+      },
+      "DRYDemoLibrary/1.0.0": {
+        "runtime": {
+          "DRYDemoLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPFUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DRYDemoLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

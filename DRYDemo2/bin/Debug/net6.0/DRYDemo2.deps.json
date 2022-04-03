@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DRYDemo2/1.0.0": {
+        "dependencies": {
+          "DRYDemoLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "DRYDemo2.dll": {}
+        }
+      },
+      "DRYDemoLibrary/1.0.0.0": {
+        "runtime": {
+          "DRYDemoLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DRYDemo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DRYDemoLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DRYDemoLibrary\bin\Debug\net6.0\DRYDemoLibrary.deps.json
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DRYDemoLibrary\bin\Debug\net6.0\DRYDemoLibrary.dll
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DRYDemoLibrary\bin\Debug\net6.0\ref\DRYDemoLibrary.dll
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DRYDemoLibrary\bin\Debug\net6.0\DRYDemoLibrary.pdb
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DRYDemoLibrary\obj\Debug\net6.0\DRYDemoLibrary.csproj.AssemblyReference.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DRYDemoLibrary\obj\Debug\net6.0\DRYDemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DRYDemoLibrary\obj\Debug\net6.0\DRYDemoLibrary.AssemblyInfoInputs.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DRYDemoLibrary\obj\Debug\net6.0\DRYDemoLibrary.AssemblyInfo.cs
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DRYDemoLibrary\obj\Debug\net6.0\DRYDemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DRYDemoLibrary\obj\Debug\net6.0\DRYDemoLibrary.dll
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DRYDemoLibrary\obj\Debug\net6.0\ref\DRYDemoLibrary.dll
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DRYDemoLibrary\obj\Debug\net6.0\DRYDemoLibrary.pdb

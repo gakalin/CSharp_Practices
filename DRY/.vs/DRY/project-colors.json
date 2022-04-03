@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e297ca20-2073-4a0e-ad10-c0bae549ce13": {
+      "ProjectGuid": "e297ca20-2073-4a0e-ad10-c0bae549ce13",
+      "DisplayName": "DRY",
+      "ColorIndex": 0
+    },
+    "20db66a2-df0c-4318-8588-7e44eb95ebec": {
+      "ProjectGuid": "20db66a2-df0c-4318-8588-7e44eb95ebec",
+      "DisplayName": "WPFUI",
+      "ColorIndex": 1
+    },
+    "59a129e1-d611-4892-9f06-f60030eb5c1d": {
+      "ProjectGuid": "59a129e1-d611-4892-9f06-f60030eb5c1d",
+      "DisplayName": "DRYDemoLibrary",
+      "ColorIndex": 2
+    },
+    "08c1f945-9021-46d1-952a-bb69b8083134": {
+      "ProjectGuid": "08c1f945-9021-46d1-952a-bb69b8083134",
+      "DisplayName": "DRYDemoLibraryTest",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
