@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8b4147f4-4efa-4d95-b261-04f5b60c661d": {
+      "ProjectGuid": "8b4147f4-4efa-4d95-b261-04f5b60c661d",
+      "DisplayName": "ConsoleUI",
+      "ColorIndex": 0
+    },
+    "e680cea6-f4e8-4b16-a167-541699517785": {
+      "ProjectGuid": "e680cea6-f4e8-4b16-a167-541699517785",
+      "DisplayName": "OCPLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
