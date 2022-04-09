@@ -1,0 +1,12 @@
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DemoLibrary\bin\Debug\net6.0\DemoLibrary.deps.json
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DemoLibrary\bin\Debug\net6.0\DemoLibrary.dll
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DemoLibrary\bin\Debug\net6.0\ref\DemoLibrary.dll
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DemoLibrary\bin\Debug\net6.0\DemoLibrary.pdb
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DemoLibrary\obj\Debug\net6.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DemoLibrary\obj\Debug\net6.0\DemoLibrary.dll
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DemoLibrary\obj\Debug\net6.0\ref\DemoLibrary.dll
+C:\Users\Gokberk\Documents\GitHub\CSharp_Practices\DemoLibrary\obj\Debug\net6.0\DemoLibrary.pdb
